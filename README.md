@@ -28,7 +28,7 @@ I enjoy building **full-stack applications** with real-world impact, focusing on
 ### 📊 GitHub Stats
 <p align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=parshvacancodeit&show_icons=true&theme=radical" height="160" />
+  
   
   <!-- Streak Graph -->
   <img src="https://streak-stats.demolab.com/?user=parshvacancodeit&theme=radical" height="160" />
@@ -58,7 +58,7 @@ I enjoy building **full-stack applications** with real-world impact, focusing on
 ---
 
 ### 🎶 Fun & Extras
-![Profile Views](https://komarev.com/ghpvc/?username=parshvacancodeit&color=blue)  
+
 
 <!-- Optional Spotify Widget (uncomment if you want it) -->
 <!-- ![Spotify](https://novatorem.vercel.app/api/spotify) -->
