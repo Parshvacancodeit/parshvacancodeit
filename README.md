@@ -45,7 +45,7 @@ I enjoy building **full-stack applications** with real-world impact, focusing on
 - 🔹 [Oculoop](https://github.com/parshvacancodeit/oculoop) – Smart Image Recommendation using Behavior Logs  
 - 🔹 [InterviewPal](https://github.com/parshvacancodeit/interviewpal) – AI-powered Interview Assistant (React + Flask + MongoDB)  
 - 🔹 [WhatsApp Automation](https://github.com/parshvacancodeit/whatsapp-automation) – Flask + Selenium to send bulk WhatsApp messages  
-- 🔹 [Inventory & Billing System](https://github.com/parshvacancodeit/inventory-billing) – PHP + SQL based billing solution  
+- 🔹 [Inventory & Billing System](https://github.com/parshvacancodeit/PHP-project) – PHP + SQL based billing solution  
 
 ---
 
